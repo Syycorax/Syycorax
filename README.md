@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on Upsilon a fork of Omega
+- 🔭 I’m currently trying to be better at infosec
 - 🌱 I’m currently learning C++
 - ⚡ Fun fact: I use arch btw
 - ✉️ Let's talk about: Cybersecurity
