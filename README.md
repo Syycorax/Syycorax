@@ -1,7 +1,6 @@
 ## 👋 Hi there! I am Syycorax
 
 - 📈 Currently training my infosec skills
-- 📖 Learning MySQL
 - 📚 I want to learn C
 - ⚡ Fun fact: I use arch btw
 - ❤️ Markdown lover
