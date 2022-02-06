@@ -1,7 +1,7 @@
 ## 👋 Hi there! I am Syycorax
 
-- 📈 Currently training my infosec skills
-- 📚 I want to learn C
+- 📈 Currently working on [gofork](https://github.com/syycorax/gofork) a CLI tool to find active forks written in golang
+- 📚 I want to learn C and Golang
 - ⚡ Fun fact: I use arch btw
 - ❤️ Markdown lover
 - 💻 FOSS lover
