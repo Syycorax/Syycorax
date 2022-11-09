@@ -1,9 +1,9 @@
 ## 👋 Hi there! I am Syycorax
 
-- 📈 Currently working on [gofork](https://github.com/syycorax/gofork) a CLI tool to find active forks written in golang (V1.0.0 [released](https://github.com/Syycorax/gofork/releases))
+- 📈 Currently working on [gofork](https://github.com/syycorax/gofork) a CLI tool to find active forks written in golang (Trying to fix it atm)
+(https://github.com/Syycorax/gofork/releases))
 - 📚 I want to learn C and Golang
 - ⚡ Fun fact: I use arch btw
-- ❤️ Markdown lover
 - 💻 FOSS lover
 
 [![Syycorax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syycorax&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
