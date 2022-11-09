@@ -1,7 +1,6 @@
 ## 👋 Hi there! I am Syycorax
 
 - 📈 Currently working on [gofork](https://github.com/syycorax/gofork) a CLI tool to find active forks written in golang (Trying to fix it atm)
-(https://github.com/Syycorax/gofork/releases))
 - 📚 I want to learn C and Golang
 - ⚡ Fun fact: I use arch btw
 - 💻 FOSS lover
