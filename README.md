@@ -1,6 +1,6 @@
 ## 👋 Hi there! I am Syycorax
 
-- 📚 Working on C, Ocaml, and Gofork
+- 📚 Working on C, Ocaml, and [Syswatch](https://github.com/Syycorax/Syswatch)
 - ⚡ Fun fact: I use arch btw
 - 💻 FOSS lover
 
