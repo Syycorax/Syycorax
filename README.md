@@ -1,10 +1,11 @@
 ## 👋 Hi there! I am Syycorax
 
-- 📚 Working on C, Ocaml, and [Syswatch](https://github.com/Syycorax/Syswatch)
+- 📚 Working on C, and [Syswatch](https://github.com/Syycorax/Syswatch)
 - ⚡ Fun fact: I use arch btw
 - 💻 FOSS lover
 
-![Syycorax's GitHub stats](github-readme-stats-brown-three-37.vercel.app/api?username=syycorax&count_private=true&show_icons=true&theme=blue-green)
+![Syycorax's GitHub stats](https://github-readme-stats-brown-three-37.vercel.app/api?username=syycorax&count_private=true&show_icons=true&theme=blue-green)
+
 ![Visitor Count](https://profile-counter.glitch.me/Syycorax/count.svg)
 
 ## 🔧 Tech & Tools Preference
