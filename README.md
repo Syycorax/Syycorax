@@ -4,8 +4,7 @@
 - ⚡ Fun fact: I use arch btw
 - 💻 FOSS lover
 
-[![Syycorax's GitHub stats](https://github-readme-stats-syycorax.vercel.app/api?username=Syycorax&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
+![Syycorax's GitHub stats](github-readme-stats-brown-three-37.vercel.app/api?username=syycorax&count_private=true&show_icons=true&theme=blue-green)
 ![Visitor Count](https://profile-counter.glitch.me/Syycorax/count.svg)
 
 ## 🔧 Tech & Tools Preference
